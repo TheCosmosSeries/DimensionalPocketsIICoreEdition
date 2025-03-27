@@ -1,12 +1,10 @@
 ![Version](https://img.shields.io/badge/VERSION-1.21.1-3eff8e?style=for-the-badge) ![Version](https://img.shields.io/badge/Loader-NeoForge-ffa835?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/TheCosmosSeries/DimensionalPocketsIICoreEdition?label=REPO%20SIZE&style=for-the-badge) ![Open Issues](https://img.shields.io/github/issues/TheCosmosSeries/DimensionalPocketsIICoreEdition?style=for-the-badge) ![Closed Issues](https://img.shields.io/github/issues-closed/TheCosmosSeries/DimensionalPocketsIICoreEdition?color=green&style=for-the-badge)
 
-![dimensional-pockets-core-edition-title-new](https://github.com/user-attachments/assets/e9c9d991-7c1d-492f-95cb-72f6c3dbd38a)
+![dimensionalpocketsii-coreedition](https://github.com/user-attachments/assets/044ac9c4-b998-47d8-a3af-bb377df86ca3)
 
 # Dimensional Pockets II (Core Edition)
-
-
-
 Currently in development for **1.21.1** and **NeoForge**.
+
 
 ### Description
 After much thought, I have branched out the [Dimensional Pockets II]() Mod and stripped out all of the additional fluff, such as the armour, weapons, devices etc. Anything not core to the idea of Pockets has been removed to create this Core Edition. Core Edition also includes 16x native textures with a similar albeit tweaked art style from the main edition.
