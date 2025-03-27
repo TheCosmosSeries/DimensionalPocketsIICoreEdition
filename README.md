@@ -5,6 +5,10 @@
 # Dimensional Pockets II (Core Edition)
 Currently in development for **1.21.1** and **NeoForge**.
 
+**Note**: *Dimensional Pockets II Core Edition is a completely separate and standalone Mod, Pockets created using the original Dimensional Pockets II Mod are not accessible using this mod. This mod is completely standalone and can even be used alongside the original if you so choose to do so.*
+
+Description
+
 
 ### Description
 After much thought, I have branched out the [Dimensional Pockets II]() Mod and stripped out all of the additional fluff, such as the armour, weapons, devices etc. Anything not core to the idea of Pockets has been removed to create this Core Edition. Core Edition also includes 16x native textures with a similar albeit tweaked art style from the main edition.
