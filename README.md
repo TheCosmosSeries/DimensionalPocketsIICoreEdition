@@ -9,8 +9,7 @@
 Currently in development for **1.21.1** and **NeoForge**.
 
 ### Description
-After much thought, I have branched out the [Dimensional Pockets II]() Mod and stripped out all of the additional fluff, such as the armour, weapons, devices etc. Anything not core to the idea of Pockets has been removed to create this Core Edition.
-
+After much thought, I have branched out the [Dimensional Pockets II]() Mod and stripped out all of the additional fluff, such as the armour, weapons, devices etc. Anything not core to the idea of Pockets has been removed to create this Core Edition. Core Edition also includes 16x native textures with a similar albeit tweaked art style from the main edition.
 
 ## Licence
 This repo does not have a licence. This means that by default, it is All Rights Reserved. However, due to having complete control over what rights that includes, here is a list of what you can and cannot do:
